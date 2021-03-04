@@ -1,0 +1,134 @@
+@charset "utf-8";
+
+.center{
+	margin: auto;
+	text-align: center;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+	color:black;
+  }
+
+  .centered {
+	font-size: 70px;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);	
+	background-color:white;
+	opacity: 0.8;
+  }
+  .centered1 {
+	font-size: 60px;
+	margin-top: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);	
+	background-color:white;
+	opacity: 0.8;
+  }
+
+  .button1 {
+	background-color: crimson;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 24px;
+	border-radius: 12px;
+	width: 50%;
+  }
+
+  .text {
+	color: orangered;
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 40px; 
+	font-weight: bold; 
+	line-height: 1; 
+	text-align: center;
+  }
+
+  .input1[type=text] {
+	border: 3px solid rebeccapurple;
+	border-radius: 4px;
+	font-size: 24px;
+	width: 50%;
+	text-align: center;
+  }
+
+  .checkbox1 {
+	color: olive;
+	display: inline;
+	padding-left: 35px;
+	font-size: 30px;
+	text-align: center;
+	margin: auto;
+	vertical-align:middle;
+	font-weight: bold; 
+	font-family: 'Helvetica Neue', sans-serif; 
+  }
+
+  .radio1 {
+	color: seagreen;
+	display: inline;
+	padding-left: 35px;
+	font-size: 30px;
+	text-align: center;
+	margin: auto;
+	vertical-align:middle;
+	font-weight: bold; 
+	font-family: 'Helvetica Neue', sans-serif; 
+  }
+  .textarea1 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: saddlebrown;
+	background-color: wheat;
+}
+
+.table1{
+	
+	border-collapse: collapse;
+	width: 100%;
+	color:rgb(6, 136, 23);
+	font-size: 25px;
+	text-align: center;
+	font-family: monospace;
+	background-color: bisque;
+	
+}
+.table2{
+	
+	border-collapse: collapse;
+	width: 100%;
+	color:rgb(15, 76, 207);
+	font-size: 30px;
+	text-align: center;
+	font-family: monospace;
+	background-color: rgb(122, 116, 109);
+	
+}
+
+
+.show{
+	color: rgb(153, 0, 255);
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold; 
+}
+
+.bookingcenter{
+
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
