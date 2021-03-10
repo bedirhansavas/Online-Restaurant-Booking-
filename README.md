@@ -6,3 +6,7 @@ Also, the following web and database technologies was integrated in the project:
 <img width="463" alt="Add page" src="https://user-images.githubusercontent.com/49618009/110632046-38b0ab80-81b8-11eb-9113-e3654c571523.png">
 
 
+<img width="768" alt="updatehtml" src="https://user-images.githubusercontent.com/49618009/110632269-78779300-81b8-11eb-8858-405fbc799504.png">
+
+
+
